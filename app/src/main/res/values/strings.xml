@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelfToWas</string>
+    <string name="text">Pon el número al que quieres enviar el Was</string>
+    <string name="send">Enviar</string>
+    <string name="prefix">Incluir prefijo de país</string>
+    <string name="default_prefix">34</string>
+</resources>
